@@ -1,5 +1,7 @@
 field,display_name
 title,Title
 date,Date
-description,Description
-subject,Subjects
+creator,Creator
+publisher,Publisher
+language,Language
+image_note,Image Notes
