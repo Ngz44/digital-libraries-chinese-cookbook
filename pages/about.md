@@ -10,16 +10,11 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/cook011.png" %}
 
-## About The Context of the Collection
-This site hosts a digitized collection of several pages from several U.S. published cookbooks from the 1900-1950's.Most of these cookbooks were primarily obtained through digitized collections such as [Food and Drink in History](https://www-foodanddrink-amdigital-co-uk.proxyiub.uits.iu.edu/). This collection aims to be an exploration of the perceptions and representations of the Chinese within the U.S. using Chinese cuisine cookbooks with the illustrations and languages used within them. 
+## About the Collection
+This site hosts a digitized collection of several pages from several U.S. published cookbooks from the 1900-1950's.Most of these cookbooks were primarily obtained through digitized collections such as [Food and Drink in History](https://www-foodanddrink-amdigital-co-uk.proxyiub.uits.iu.edu/). This collection aims to be an exploration of the perceptions and representations of the Chinese within the U.S. using Chinese cuisine cookbooks with the illustrations and languages used within them. During my studies in completing my B.A. in History, I was interested in the cultural impacts and perceptions of diasporic communities by surrounding larger communities/groups. This interest continued to lead me to pursue that form of research through the lenses of cookbooks of the past. 
 
+For more information about the intellectual and social context of this collection, please refer to 
 
-
-
-    </svg> 
-    Change the Metadata!
-</button>
-{:.text-center}
 
 ## Create your own Metadata
 
@@ -37,7 +32,3 @@ Once you have items added you can test your metadata by clicking the "Change the
 
 ## Learn More
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
