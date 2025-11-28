@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/cook011.png" %}
 
 ## About This Collection
 This site hosts a digitized collection of several pages from several U.S. published cookbooks  [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
