@@ -16,19 +16,12 @@ This site hosts a digitized collection of several pages from several U.S. publis
 For more information about the intellectual and social context of this collection, please refer to 
 
 
-## Create your own Metadata
+## Controlled Vocabularies
+[MIME](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#format)
+[W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
+[LCNAF](https://id.loc.gov/authorities/names.html)
+[ISO639-1](https://www.loc.gov/standards/iso639-2/php/code_list.php)
 
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
 
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary}
-{:.text-center}
 
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
-
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
-
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
-
-## Learn More
 
